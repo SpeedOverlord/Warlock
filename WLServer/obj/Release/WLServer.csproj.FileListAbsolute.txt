@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Release\WLServer.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Release\WLServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Release\WLServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Release\WLServer.ServerForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Release\WLServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Release\WLServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Release\WLServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Release\WLServer.pdb

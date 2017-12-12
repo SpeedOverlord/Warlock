@@ -1,0 +1,27 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Debug\WLServer.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Debug\WLServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\bin\Debug\WLServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\obj\Debug\WLServer.ServerForm.resources
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\bin\Debug\WLServer.exe.config
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.exe
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.pdb
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\bin\Debug\WLServer.exe
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\bin\Debug\WLServer.pdb
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.csprojResolveAssemblyReference.cache
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.ServerForm.resources
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.Properties.Resources.resources
+C:\Users\NTPU-User\Desktop\Warlock\WLServer\obj\Debug\WLServer.csproj.GenerateResource.Cache
+F:\Warlock\WLServer\bin\Debug\WLServer.exe.config
+F:\Warlock\WLServer\obj\Debug\WLServer.exe
+F:\Warlock\WLServer\obj\Debug\WLServer.pdb
+G:\Warlock\WLServer\bin\Debug\WLServer.exe.config
+G:\Warlock\WLServer\obj\Debug\WLServer.exe
+G:\Warlock\WLServer\obj\Debug\WLServer.pdb
+C:\Users\Administrator\Desktop\Warlock\WLServer\bin\Debug\WLServer.exe.config
+C:\Users\Administrator\Desktop\Warlock\WLServer\obj\Debug\WLServer.exe
+C:\Users\Administrator\Desktop\Warlock\WLServer\obj\Debug\WLServer.pdb

@@ -1,0 +1,6 @@
+System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 sis.FireBall.StopCast(Unit unit, IPair destination, Effect[] effect_list) 於 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\GameData\FireBall.cs: 行 28
+   於 sis.Unit.InterruptCast() 於 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\GameData\Unit.cs: 行 139
+   於 sis.Unit.Cast(Int32 id, IPair destination) 於 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\GameData\Unit.cs: 行 131
+   於 sis.Player.PushCast(Keys key, IPair pos) 於 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\Player.cs: 行 34
+   於 sis.Player.Recv() 於 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLServer\Player.cs: 行 114

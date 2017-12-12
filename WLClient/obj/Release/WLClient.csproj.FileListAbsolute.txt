@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\bin\Release\WLClient.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\bin\Release\WLClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\bin\Release\WLClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\obj\Release\WLClient.ClientForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\obj\Release\WLClient.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\obj\Release\WLClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\obj\Release\WLClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Warlock\WLClient\obj\Release\WLClient.pdb
